@@ -3,6 +3,7 @@
 The scope and feature of this project are as follows:
 
 - Backend: NodeJS
+- Frontend: [ReactJS](https://github.com/darwincringe/reactjs-yondu)
 - API: JWT
 - User/Admin authentication
 - Add a new user
